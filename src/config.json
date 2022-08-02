@@ -1,22 +1,22 @@
 {
-  "forenames": "Dean",
-  "surname": "James",
-  "profession": "Agile Software Engineer & Quality Engineering Consultant",
-  "dob": "13th January 1981",
+  "forenames": "Daniel",
+  "surname": "Pathan",
+  "profession": "Trading Application Support Engineer",
+  "dob": "22nd September 1985",
   "gender": "Male",
   "location": "Southend, Essex",
   "citizenship": "British",
-  "email": "jobs@deanj.co.uk",
+  "email": "danielpathan@hotmail.com",
   "social": [
     {
       "label": "Twitter",
-      "url": "https://twitter.com/leandeanjames",
-      "text": "@leandeanjames"
+      "url": "https://twitter.com/pathan_daniel",
+      "text": "@pathan_daniel"
     },
     {
       "label": "LinkedIn",
-      "url": "https://www.linkedin.com/in/dean-james-74860014",
-      "text": "linkedin.com/in/dean-james-74860014"
+      "url": "https://www.linkedin.com/in/daniel-pathan-70696386/",
+      "text": "linkedin.com/in/daniel-pathan-70696386/"
     },
     {
       "label": "CV",
