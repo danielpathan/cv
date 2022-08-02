@@ -1,10 +1,10 @@
 # My personal CV
 
-http://cv.deanj.co.uk/
+http://danielpathan.github.io/cv
 
 ## Install
 
-- `git clone git@github.com:xurion/cv.git`
+- `git clone git@github.com:danielpathan/cv.git`
 - `npm install`
 
 ## Run
